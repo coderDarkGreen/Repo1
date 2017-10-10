@@ -1,0 +1,11 @@
+ Volume in drive C is TI31418400A
+ Volume Serial Number is 2AE4-6FEC
+
+ Directory of C:\Tools\GitTest
+
+10/11/2017  12:12 AM    <DIR>          .
+10/11/2017  12:12 AM    <DIR>          ..
+10/10/2017  01:02 AM                34 test.txt
+10/11/2017  12:12 AM                 0 test2.txt
+               2 File(s)             34 bytes
+               2 Dir(s)  646,077,108,224 bytes free
